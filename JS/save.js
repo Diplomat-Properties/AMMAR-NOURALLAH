@@ -41,7 +41,7 @@ VERSION:3.0
 FN:AMMAR NOURALLAH
 TITLE:Sales Manager
 ORG:Diplomat Properties
-TEL;TYPE=WORK,VOICE:+971586883324
+TEL;TYPE=WORK,VOICE:+97122222222
 EMAIL:Ammar@dpdxb.com
 URL:http://www.dpdxb.com
 ADR;TYPE=WORK:;;PO Box No 181702, Office NO.807, Opal Tower, Business Bay;Dubai;;UAE
